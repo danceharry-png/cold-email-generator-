@@ -11,7 +11,6 @@ This tool solves a key pain point in outbound sales: the time-intensive process 
 - **Personalized Email Generation**: Takes prospect and company information as input and generates unique, contextual cold emails
 - **Claude AI Reasoning**: Uses Claude's reasoning capabilities to craft emails that reference specific company signals and prospect background
 - **Batch Processing**: Generate multiple emails in one session and export all results to CSV
-- **Error Handling**: Gracefully handles incomplete or missing prospect data
 - **Easy Export**: All generated emails saved to timestamped CSV files for review and manual quality control
 
 ## Prerequisites
